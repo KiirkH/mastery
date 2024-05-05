@@ -36,40 +36,6 @@ body {
     border: 0;
 }
 
-#tabs {
-    position: absolute;
-    width: 100%;
-    margin-top: 10px;
-    text-align: center;
-}
-
-#tabs button {
-    color: #14172c;
-    font-size: 20px;
-    margin: 0 10px;
-    border: 1px transparent solid;
-    background-color: transparent;
-    padding: 10px 20px;
-}
-
-#tabs button.active {
-    background-color: #E6EBFF;
-    border-radius: 3px;
-    border-color: #B0C5FF;
-}
-
-#tabs button:hover {
-    cursor: pointer;
-    text-decoration: underline;
-    background-color: #edf0fc;
-}
-
-#tabs .separator {
-    font-size: 20px;
-    color: #14172c;
-    font-weight: bold;
-}
-
 .frame-wrapper {
     display: none;
     border: 1px rgb(11, 11, 39) solid;
