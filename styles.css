@@ -17,8 +17,8 @@ body {
 
 #slides-wrapper iframe{
     display: block;
-    height: 712px;
-    width: 1200px;
+    height: 700px;
+    width: 1180px;
     max-width: 100%;
     max-height: 100%;
 }
